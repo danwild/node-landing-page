@@ -9,5 +9,5 @@ Requires the following command line args on startup:
 
 e.g. usage
 
-`forever app.js --name='MH Dashboard' --duration='up to 30 minutes'`
+`forever app.js --name='My Application' --duration='up to 15 minutes'`
 
