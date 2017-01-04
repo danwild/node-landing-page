@@ -9,5 +9,5 @@ Requires the following command line args on startup:
 
 e.g. usage
 
-`forever app.js --name='My Application' --duration='up to 15 minutes'`
+`forever start app.js --name='My Application' --duration='up to 15 minutes'`
 
